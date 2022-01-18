@@ -92,9 +92,6 @@
 ![VBA_ Challenge_2017_Run TIme](https://user-images.githubusercontent.com/97082773/150021924-40ffdd79-b14c-49f0-8e83-f53b06cd636a.png)
 ![VBA_ Challenge_2018_Run TIme](https://user-images.githubusercontent.com/97082773/150021940-6bc08991-073c-4f90-9371-482ac75f2298.png)
 
-![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/97082773/150021979-2f747630-90a7-48ba-ac1b-59ca31d03cdc.png)
-![VBA_Challenge_2018 png](https://user-images.githubusercontent.com/97082773/150021993-c0839138-e012-4703-b87b-3b4f48cd7350.png)
-
 
 ## Summary
 	
