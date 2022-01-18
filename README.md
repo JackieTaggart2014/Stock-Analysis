@@ -3,7 +3,9 @@
 ## Overview of Project
 ### The purpose of this project was to provide analytical information to Steve and his parents regarding 12 green energy stocks. We looked at the data for 2017 and 2018 and provided information regarding each year’s stock performance. We then refactored the code in order to have it run more efficiently than the original code.
 
-### Data We were provided two charts with stock information on 12 different stocks. We looked at a few metrics to quantify our analysis such as entry date, Opening Value, Daily High Value, Daily Low Value, Closing Value, Adjusted Closing Value, and Volume traded. Each stock had a designated stock ticker, and each worksheet tracked the same stocks for each of the two years. We wanted to review the total daily volume traded for each stock ticker, and the yearly return on value. 
+## Data 
+
+### We were provided two charts with stock information on 12 different stocks. We looked at a few metrics to quantify our analysis such as entry date, Opening Value, Daily High Value, Daily Low Value, Closing Value, Adjusted Closing Value, and Volume traded. Each stock had a designated stock ticker, and each worksheet tracked the same stocks for each of the two years. We wanted to review the total daily volume traded for each stock ticker, and the yearly return on value. 
 
 ## Results
 ## Analysis
