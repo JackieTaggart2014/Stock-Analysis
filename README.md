@@ -13,11 +13,9 @@
 
 ## Results
 
-## Analysis
-
 ### In the original VBA macro, we were able to run code for each of the appropriate worksheets and created macros that would tell us how each stock was performing for years 2017 and 2018. We were then given additional criteria that could be entered into the code that would result in a more efficient code run.
        
-       ### Additional Criteria:
+   Additional Criteria:
 
   '1a) Create a ticker Index
    For i = 0 To 11
