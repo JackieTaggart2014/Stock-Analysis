@@ -5,7 +5,11 @@
 
 ## Data 
 
-### We were provided two charts with stock information on 12 different stocks. We looked at a few metrics to quantify our analysis such as entry date, Opening Value, Daily High Value, Daily Low Value, Closing Value, Adjusted Closing Value, and Volume traded. Each stock had a designated stock ticker, and each worksheet tracked the same stocks for each of the two years. We wanted to review the total daily volume traded for each stock ticker, and the yearly return on value. 
+### We were provided two charts with stock information on 12 different stocks. We looked at a few metrics to quantify our analysis such as entry date, Opening Value, Daily High Value, Daily Low Value, Closing Value, Adjusted Closing Value, and Volume traded. Each stock had a designated stock ticker, and each worksheet tracked the same stocks for each of the two years. We wanted to review the total daily volume traded for each stock ticker, and the yearly return on value. Once re ran the macros, we were given a run time to tell us how much time the macros took to run
+
+![2017_OG Macros](https://user-images.githubusercontent.com/97082773/150021119-9e79c49e-1041-4b4b-83d8-f0b65a8e9287.png)
+![2018_OG Macros](https://user-images.githubusercontent.com/97082773/150021149-d42c0b55-f9a3-4c1d-80d1-ee9cb7a1335e.png)
+
 
 ## Results
 
@@ -80,6 +84,12 @@
             
 
    Next i
+
+![VBA_ Challenge_2017_Run TIme](https://user-images.githubusercontent.com/97082773/150021924-40ffdd79-b14c-49f0-8e83-f53b06cd636a.png)
+![VBA_ Challenge_2018_Run TIme](https://user-images.githubusercontent.com/97082773/150021940-6bc08991-073c-4f90-9371-482ac75f2298.png)
+
+![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/97082773/150021979-2f747630-90a7-48ba-ac1b-59ca31d03cdc.png)
+![VBA_Challenge_2018 png](https://user-images.githubusercontent.com/97082773/150021993-c0839138-e012-4703-b87b-3b4f48cd7350.png)
 
 
 ## Summary
