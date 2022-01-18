@@ -45,7 +45,7 @@
              
 	     tickerVolumes = tickerVolumes + Cells(j, 8).Value
         
-   End If
+     End If
            
            
   '3b) Check if the current row is the first row with the selected tickerIndex.
