@@ -8,9 +8,10 @@
 ### We were provided two charts with stock information on 12 different stocks. We looked at a few metrics to quantify our analysis such as entry date, Opening Value, Daily High Value, Daily Low Value, Closing Value, Adjusted Closing Value, and Volume traded. Each stock had a designated stock ticker, and each worksheet tracked the same stocks for each of the two years. We wanted to review the total daily volume traded for each stock ticker, and the yearly return on value. 
 
 ## Results
-### Analysis
 
-       In the original VBA macro, we were able to run code for each of the appropriate worksheets and created macros that would tell us how each stock was performing for years 2017 and 2018. We were then given additional criteria that could be entered into the code that would result in a more efficient code run.
+## Analysis
+
+### In the original VBA macro, we were able to run code for each of the appropriate worksheets and created macros that would tell us how each stock was performing for years 2017 and 2018. We were then given additional criteria that could be entered into the code that would result in a more efficient code run.
        
        ### Additional Criteria:
 
@@ -81,7 +82,7 @@
    Next i
 
 
-### Summary
+## Summary
 	
 ## Advantages and disadvantages of refactoring code
 
